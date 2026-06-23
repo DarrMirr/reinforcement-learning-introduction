@@ -1,0 +1,1 @@
+Project licensed under CC BY.
