@@ -1,6 +1,6 @@
 # Introduction to Reinforcement learning without math overhead
 
-This project is part of article on (habr.com)[https://habr.com/ru/companies/cinimex/articles/1050296/]
+This project is part of article on [habr.com](https://habr.com/ru/companies/cinimex/articles/1050296/)
 
 ## Project structure
 

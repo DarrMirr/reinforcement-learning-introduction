@@ -1,6 +1,6 @@
 # Введение в обучение с подкреплением без глубокого погружения в математику.
 
-Этот проект является частью статьи на (habr.com)[https://habr.com/ru/companies/cinimex/articles/1050296/]
+Этот проект является частью статьи на [habr.com](https://habr.com/ru/companies/cinimex/articles/1050296/)
 
 ## Стуруктура проекта
 
