@@ -13,7 +13,7 @@ src/                # project source code
 
 Files:
 ```text
-src/main.py         # exacutable project file
+src/main.py         # executable project file
 src/config.py       # project configuration file
 logging.conf        # logging configuration
 requirements.txt    # libraries list used by project
